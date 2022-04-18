@@ -1,6 +1,6 @@
 ## Interpolation / fitting methods
 
-This is a implementation of several common interpolation / fitting methods. \
+This is a implementation of several common interpolation / fitting methods.
 
 ---
 ### Experiment
